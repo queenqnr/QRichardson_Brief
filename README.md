@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## Career Objectives
+- Highly motivated and focused-driven student in pursuit of finding a reputable company that I can blend with, allowing me to further develop my skills as a great team player.
 
-You can use the [editor on GitHub](https://github.com/queenqnr/QRichardson_Brief/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+Suitland High School   
+- IB(International Baccalaureate ) Diploma Program - August 2017 to Present
+Maintained a 3.85 Overall G.P.A. in a complex pre-university course which covers a wide range of academic subjects
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Walker Mill Middle School
+- Talented And Gifted (TAG) Program - August 2015 to June 2017
+- Received Silver Award for two straight years (eight quarters) in recognition of 3.0 and above grade point average
+- One of few chosen to join the National Youth Leadership Forum: National Security – Diplomacy, Intelligence & Defense due to academic achievement and leadership ability
 
-```markdown
-Syntax highlighted code block
+Francis Scott Key Elementary School
+- G.O.L.D Student - August 2007 to June 2015
+- Selected by the principal and staff to be the school's G.O.L.D (Generating Outstanding Leadership Development) student representative. (Only one chosen for each school in PGCPS)
+- Invited to join National Junior Honor Society Conference
+- Member of Principal's Honor Roll
+- Hall Monitor Captain
+- Highest achieved in Math, Reading, and Science
+- Peer Mediator
+- Tutored Pre-K through First grade students in all academic subjects
 
-# Header 1
-## Header 2
-### Header 3
+## Extracurricular Activities
+- BDPA Computer Programing Class
+- Womens For Change Program
+- Ladies Of Virtues /Women of Purpose
+- Broadcast Club
+- Dual Enrollment- Introduction to Tech. (IT 1010)
+- Member of National Society of High School Scholars
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Acheivements
+-Received Rams on the Move Award for exceptional work ethic during the 2017-2018 school year
+- 4th in National Hischool Computer Science Competion (2018-2019)
+- 2nd BDPA regional Competion
+- Created the official IB Documentary for Suitland Highschool Website
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Skills
+- Movavi Movie Editor
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
+- iMovie
+- HTML coding
+- CSS Coding
+- Javascript coding (in training)
+- Php coding (in training)
+- Python coding (in training)
+- Photography
+- Editing/Audio
+- Filming/Camerawork
+- Storyboard Writing
+- Scriptwriting
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Projects
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/queenqnr/QRichardson_Brief/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
